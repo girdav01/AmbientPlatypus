@@ -1,4 +1,4 @@
-<div align="center"><img width="65%" height="65%" src="hhttps://www.trendmicro.com/content/dam/trendmicro/global/en/core/images/logos/tm-logo-red-white-t.svg" alt="Trend Micro"></div>
+<div align="center"><img width="65%" height="65%" src="https://www.trendmicro.com/content/dam/trendmicro/global/en/core/images/logos/tm-logo-red-white-t.svg" alt="Trend Micro"></div>
 
 <p align="center">
   <a href="https://www.trendmicro.com"> Trend Micro Website</a> •
