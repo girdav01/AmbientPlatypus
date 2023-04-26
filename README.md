@@ -7,7 +7,7 @@
   <a href="https://www.youtube.com/@trendmicro"><img src="https://img.shields.io/badge/-trendmicro-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@trendmicro" alt="YouTube Badge" ></a>
   <a href="https://twitter.com/intent/follow?screen_name=TrendMicro&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/TrendMicro?label=%40TrendMicro&style=social"></a>
   •
-   <a href="https://automation.trendmicro.com"> Automation Website</a> •
+   <a href="https://automation.trendmicro.com"> Automation Website</a>
 </p>
 
 <p align="center">
