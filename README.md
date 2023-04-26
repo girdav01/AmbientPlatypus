@@ -2,16 +2,16 @@
 
 <p align="center">
   <a href="https://www.trendmicro.com"> Trend Micro Website</a> •
-  <a href="https://www.linkedin.com/company/trend-micro/"><img src="https://img.shields.io/badge/trendmicro-mycompany/?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/company/trend-micro/" alt="Linkedin Badge" ></a>
-  <a href="https://www.instagram.com/trendmicro/"><img src="https://img.shields.io/badge/trendmicro-purple?style=flat-square&logo=instagram&logoColor=purple&link=https://www.instagram.com/trendmicro/" alt="Instagram Badge" ></a>
-  <a href="https://www.youtube.com/@trendmicro"><img src="https://img.shields.io/badge/-trendmicro-darkred?style=flat-square&logo=youtube&logoColor=red&link=https://www.youtube.com/@trendmicro" alt="YouTube Badge" ></a>
+  <a href="https://www.linkedin.com/company/trend-micro/"><img src="https://img.shields.io/badge/trendmicro-mycompany/?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/trend-micro/" alt="Linkedin Badge" ></a>
+  <a href="https://www.instagram.com/trendmicro/"><img src="https://img.shields.io/badge/trendmicro-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/trendmicro/" alt="Instagram Badge" ></a>
+  <a href="https://www.youtube.com/@trendmicro"><img src="https://img.shields.io/badge/-trendmicro-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@trendmicro" alt="YouTube Badge" ></a>
   <a href="https://twitter.com/intent/follow?screen_name=TrendMicro&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/TrendMicro?label=%40TrendMicro&style=social"></a>
   •
    <a href="https://automation.trendmicro.com"> Automation Website</a> •
 </p>
 
 <p align="center">
-    Join the <a href="hhttps://success.trendmicro.com/forum/s/">Trend Micro Community</a>
+    Join the <a href="https://success.trendmicro.com/forum/s/">Trend Micro Community</a>
 <br/>
 </p>
 
