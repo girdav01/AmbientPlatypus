@@ -22,6 +22,7 @@ Our Vision One platform includes a modern web application with a Lucerne query A
 Our open-source integrations provide a robust and scalable solution for managing and sharing threat intelligence, enabling organizations to stay ahead of emerging threats and proactively defend their networks.
 
 ![Exec_Dashboard](https://github.com/AmbientPlatypus/AmbientPlatypus/blob/main/Exec_Dashboard.jpg "Executive Dashboard")
+
 ![Workbench](https://github.com/AmbientPlatypus/AmbientPlatypus/blob/main/Workbench.jpg "Workbench")
 
 ## Objective
