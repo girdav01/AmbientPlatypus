@@ -38,7 +38,7 @@ If you want to know more on Trend Vision One, you can read the [documentation on
 
 ## Releases download
 
-The Vision One connectors are available on the [Github releases page](https://github.com/trendmicro/tm-v1-connectors).
+The Vision One connectors are available on the [Github releases page](https://github.com/trendmicro/tm-v1/tm-v1-connectors).
 
 ## Installation
 
@@ -62,7 +62,7 @@ If you want to actively help Trend Vision One by creating connectors, we created
 
 ### Status & bugs
 
-Currently Trend Vision One connectors is under heavy development, if you wish to report bugs or ask for new features, you can directly use the [Github issues module](https://github.com/trendmicro/tm-v1-connectors/issues).
+Currently Trend Vision One connectors is under heavy development, if you wish to report bugs or ask for new features, you can directly use the [Github issues module](https://github.com/trendmicro/tm-v1/tm-v1-connectors/issues).
 
 ### Discussion
 
