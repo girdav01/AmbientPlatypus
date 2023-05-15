@@ -21,9 +21,9 @@ Our Vision One platform includes a modern web application with a Lucerne query A
 
 Our open-source integrations provide a robust and scalable solution for managing and sharing threat intelligence, enabling organizations to stay ahead of emerging threats and proactively defend their networks.
 
-![Exec_Dashboard](https://powerbox-file.trend.org/SFDC/DownloadFile_iv.php?jsonInfo=%7B%22Query%22%3A%22Ih315CtTaXuozzoIwA7HL6HXJzExFuXhbiDFZX6V0AG%2B33mJcfDQdJoSZV85J90WFMUpewOj9laXUTHtECMd0DwNGR2Td96rH4fD5BawTE%2B6gDgG%2BlwHIRnUYyyJZGM3T6OxyfG9GlG2Cwc4IwHwE6iC7svGYBmsblmpGdFK7AxpeVbc1Vmyfe7Za9h85vGk0oIEe0Li78YWqtLfyFNU4UQiXiBrSP82FpydlmbsBxQ%2FmlXkk7j43J6KXNhU%2BIpT%22%2C%22iv%22%3A%22b745424c1f19feaceb7ae7d6da46013d%22%7D "Executive Dashboard")
+![Exec_Dashboard](https://powerbox-file.trend.org/SFDC/external_shared/7e76f99045386eb101caeaca3f053079.php "Executive Dashboard")
 
-![Workbench](https://powerbox-file.trend.org/SFDC/DownloadFile_iv.php?jsonInfo=%7B%22Query%22%3A%22Ih315CtTaXuozzoIwA7HL6HXJzExFuXhbiDFZX6V0AHTujB%2FtLy58g0yhspit0SmlLDgLcHia5zOMT54oBQ1V%2F0QrzR%2FOggPAgcl%2FxjYaWfdrmfbqrSYhFEl5jFLYKcnQxwSUeOVBLBfA9k%2FZXLRt9qt%2FslgtWv3z8c9t4fIAAlCWXgR%2Fd5W6hVAg2EGVCce5yixKlvMtKf9U9m8gj%2BLzMcGaESFJ7hYGlD3Y1TDUBhNT8sGaa%2Baje15uoELWLc2%22%2C%22iv%22%3A%22b745424c1f19feaceb7ae7d6da46013d%22%7D "Workbench")
+![Workbench](https://powerbox-file.trend.org/SFDC/external_shared/1ac4a7a6b332ee1a3eee405682d581a7.php "Workbench")
 
 ## Objective
 
