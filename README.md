@@ -21,9 +21,9 @@ Our Vision One platform includes a modern web application with a Lucerne query A
 
 Our open-source integrations provide a robust and scalable solution for managing and sharing threat intelligence, enabling organizations to stay ahead of emerging threats and proactively defend their networks.
 
-![Exec_Dashboard](https://powerbox-file.trend.org/SFDC/external_shared/7e76f99045386eb101caeaca3f053079.php "Executive Dashboard")
+![Exec_Dashboard](https://i.imgur.com/YjschBi.jpg "Executive Dashboard")
 
-![Workbench](https://powerbox-file.trend.org/SFDC/external_shared/1ac4a7a6b332ee1a3eee405682d581a7.php "Workbench")
+![Workbench](https://i.imgur.com/D3joB6x.jpg "Workbench")
 
 ## Objective
 
