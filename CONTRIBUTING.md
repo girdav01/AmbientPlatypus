@@ -36,7 +36,7 @@ Trend Vision One has adopted a Code of Conduct that we expect project participan
 
 Any contribution is appreciated, and many don't imply coding. Contributions can range from suggestions for improving documentation, requesting a new feature, reporting a bug, developing features, or fixing bugs yourself.
 
-You can open an issue on the repository with the label "question" for general suggestions or questions about the project or the documentation. We will answer as soon as possible. If you do not wish to publish on the repository, please see the section below [**"How can you get in touch for other questions?"**](#howcanyougetintouchforotherquestions).
+You can open an issue on the repository with the label "question" for general suggestions or questions about the project or the documentation. We will answer as soon as possible though the formal Trend Micro product supports aren't applied as this OSS project isn't a formal Trend Micro product. If you do not wish to publish on the repository, please see the section below [**"How can you get in touch for other questions?"**](#howcanyougetintouchforotherquestions).
 
 * Just using Trend Vision One's OSS and opening issues if everything is not working as expected will be a huge step forward. See our section about opening an issue. To report a bug, please refer to the [bug reporting module](https://github.com/trendmicro/tm-v1/issues/new?assignees=&labels=&template=bug_report.md&title=). To suggest a new feature, please fill in the feature request [form](https://github.com/trendmicro/tm-v1/issues/new?assignees=&labels=&template=feature_request.md&title=).
 
