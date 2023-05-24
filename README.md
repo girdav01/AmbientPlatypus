@@ -68,6 +68,10 @@ Currently Trend Vision One connectors is under heavy development, if you wish to
 
 If you need support or you wish to engage a discussion about the Trend Vision One platform, feel free to join us on our [Forums](https://success.trendmicro.com/forum/s/topic/0TO4T000000LH90WAG/trend-micro-vision-one).
 
+### Support
+
+The supports will be provided through the community. As this is an OSS project but not a formal Trend Micro product, the formal product support is not applied.
+
 ## About
 
 ### Authors
