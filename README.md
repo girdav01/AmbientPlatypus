@@ -15,11 +15,11 @@
 
 ## Introduction
 
-Trend Micro's open-source integrations will allow organizations to seamlessly integrate their security tools and enhance their threat intelligence capabilities. Our Vision One solution is designed to structure, store, and visualize both technical and non-technical information about cyber threats.
+Trend Vision One open-source integrations will allow organizations to seamlessly integrate their security tools. Our Trend Vision One platform Trend Micro enterprise solution that integrate most of our Enterprise products under 1 console, 1 API. Integrating with the platform once, give you access to multiple products all at once.
 
-Our Vision One platform includes a modern web application with a subset of Lucerne syntax and a user-friendly front-end for easy navigation and access to critical data. Our solution is designed with flexibility in mind, allowing for seamless integration with other tools and applications.
+We hope to provide you with all the tools you need to enlarge Trend Vision One Ecosystem with your connector or tool.
 
-Our open-source integrations provide a robust and scalable solution for managing and sharing threat intelligence, enabling organizations to stay ahead of emerging threats and proactively defend their networks.
+We will also share other types of Trend Vision One integrations or code. Custom scripts use in our response Application, custom detection models or Threat Hunting Search queries are just examples of Vision One tools that can be shared in the Trend Vision community. 
 
 ![Exec_Dashboard](https://i.imgur.com/YjschBi.jpg "Executive Dashboard")
 
@@ -27,10 +27,7 @@ Our open-source integrations provide a robust and scalable solution for managing
 
 ## Objective
 
-Trend's Vision One aims to provide users with a comprehensive toolset to capitalize on technical and non-technical information related to cyber threats. These tools are designed to link each piece of information to its primary source, such as a report or a MISP event while allowing the user to establish links between each piece of information and track first and last-seen dates and levels of confidence. This tool uses Trend Micro's own open-source integrations, including the MITRE ATT&CK framework, to help structure the data. The user can also choose to implement their own datasets.
-
-After data processing, new associations may be inferred from existing ones to facilitate the understanding and representation of the information. This processing allows the user to extract and leverage meaningful knowledge from the raw data. Trend Micro's Vision One product also allows importing TAXII and MISP feeds and exporting data in different formats, such as CSV and STIX2 bundles. Connectors are actively being developed to accelerate interactions between the tool and other platforms, which is where you can help.
-
+This Trend Vision One community aims to provide users and partners with a comprehensive toolset to help you use Trend Vision One in your environment with your Ecosystem. 
 
 ## Documentation and demonstration
 
@@ -38,11 +35,11 @@ If you want to know more on Trend Vision One, you can read the [documentation on
 
 ## Releases download
 
-The Vision One connectors are available on the [Github releases page](https://github.com/trendmicro/tm-v1/tm-v1-connectors).
+The Trend Vision One connectors are available on the [Github releases page](https://github.com/trendmicro/tm-v1/tm-v1-connectors).
 
 ## Installation
 
-Each connectors documentation can found in the associated repository. We also hope to offer Docker releases in the future.
+Each connectors documentation can be found in the associated repository. We also hope to offer Docker releases in the future.
 
 ## Contributing
 
