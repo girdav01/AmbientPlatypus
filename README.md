@@ -17,7 +17,7 @@
 
 Trend Micro's open-source integrations will allow organizations to seamlessly integrate their security tools and enhance their threat intelligence capabilities. Our Vision One solution is designed to structure, store, and visualize both technical and non-technical information about cyber threats.
 
-Our Vision One platform includes a modern web application with a Lucerne query API and a user-friendly front-end for easy navigation and access to critical data. Our solution is designed with flexibility in mind, allowing for seamless integration with other tools and applications.
+Our Vision One platform includes a modern web application with a subset of Lucerne syntax and a user-friendly front-end for easy navigation and access to critical data. Our solution is designed with flexibility in mind, allowing for seamless integration with other tools and applications.
 
 Our open-source integrations provide a robust and scalable solution for managing and sharing threat intelligence, enabling organizations to stay ahead of emerging threats and proactively defend their networks.
 
