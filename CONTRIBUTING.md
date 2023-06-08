@@ -1,4 +1,4 @@
-# Contributing to Trend Micro
+# Contributing to Trend Vision One OSS projects
 
 Thank you for reading this documentation and considering contributing to our projects. Any contributions that help us improve the platform are valuable and much appreciated, especially if it is meaningful to you or your organization.
 
@@ -9,11 +9,11 @@ Do not hesitate to shoot us an [email](mailto:emailaddress@trendmicro.com) or jo
 
 ## Why contribute?
 
-Trend Vision One has an open-source project focused on building a platform for threat intelligence analysts to interact with their sensor-collected information. It allows analysts to leverage knowledge from this information while keeping track of each source of information (if you want to know more about Trend Vision One, you can read the [detailed documentation](https://docs.trendmicro.com/en-us/enterprise/trend-vision-one.aspx) or [request a demo](https://www.trendmicro.com/explore/vision-one-demos)).
+Trend Vision One has an open-source project focused on building platform extensions, connectors, rules, scripts that help the customers/partners community. If you want to know more about Trend Vision One, you can read the [detailed documentation](https://docs.trendmicro.com/en-us/enterprise/trend-vision-one.aspx) or [request a demo](https://www.trendmicro.com/explore/vision-one-demos).
 
 Whether you are an organization or an individual working or studying cybersecurity and cyber-defense or simply looking for a technical challenge, contributing to the Trend Vision One project may represent a great opportunity.
 
-* You can help grow the community and a tool focused on improving the understanding of cyber threats, enhancing our capability of better protecting our organizations and societies.
+* You can help grow the community.
 
 * You can adapt the tool to your core interests and work methods by developing features or fixing bugs you are most interested in.
 
@@ -23,8 +23,6 @@ Whether you are an organization or an individual working or studying cybersecuri
 Now that the project has been released, our goal for the future is two-fold:
 
 * Of course, fixing bugs and developing features identified as non-critical would add to Trend Vision One's power.
-
-<!-- What do we want for our "long-term vision"? * On a longer-term vision, we would like to develop a multi-layered approach in the platform, which would be divided into three strata: a strategic level (for information about actors), a kill chain level (with the different steps of the attack chain) and an infrastructure level (containing data on the infrastructure used by the attacker). -->
 
 
 ## Code of Conduct
